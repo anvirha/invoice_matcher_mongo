@@ -1,0 +1,4 @@
+pymongo==4.6.1
+rapidfuzz==3.5.2
+tqdm==4.66.4
+python-dotenv==1.0.1
